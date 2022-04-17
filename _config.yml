@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xudong Sun / smilesun.east (the meaning of my name)"
 title_separator          : "-"
 name                     : &name "Xudong Sun"
-description              : &description "want to be a research scientist"
+description              : &description "awareness is the path to change"
 url                      : https://smilesun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "smilesun/smilesun.github.io"
@@ -80,8 +80,9 @@ analytics:
 author:
   name             : "Xudong Sun"
   avatar           : "profile.png"
-  bio              : "PhD candiate on Statistics"
-  location         : "Munich"
+  bio              : "Postdoctoral researcher in control theory, Dr. rer. nat. (PhD) in Statistics, MEng in Signal and Information Processing, 
+  BS in Physics"
+  location         : "Munich, Stockholm"
   employer         :
   googlescholar    : "https://scholar.google.de/citations?user=FnWKUqYAAAAJ&hl=en"
   email            :

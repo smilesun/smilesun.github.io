@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "family means FAther and Mother I Love You"
+title: "Wer ist der Mensch, der das Leben liebt, der Tage ersehent, um Gutes zu sehen?"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am interested in Domain Generalization, Causality, Digital Communication, Control Theory, Reinforcement Learning, Knowledge graph, Biostatistics and Bioinformatics. I used to have a sound knowledge of Abstract Algebra. Some fair knowledge about Biology and Physics.
+My research interest is in the intersection of causal inference and discovery, reinforcement learning and control theory. 
 
-Some research project I have done:
 
-- Open source software development for Machine Learning and Reinforcement Learning
-- Multi-objective Bayesian Optimization and decentralized Machine Learning
-- Deep Reinforcement Learning, Functional Data (time series) regression and classification and Recurrent Neural Network
-- Probablistic Graphical Model and Generative Neural Network
-- Recommendation Systems and Semantic Web
-- Applications of Machine Learning in Bio-chemical and Bio-medical fields
+- Inference for control with probabilistic graphical model
+- Causal inference based domain generalization and adaptation
+- Optimal experimental design and exploration in reinforcement learning
+- Reinforcement learning on graph
+- Feedback optimization and adaptive control (Simultaneous system identification and control)
+- Port-Hamiltonian modeling and control of biochemical reaction networks
+- Non-linear observer design
+ 
+I am also an open source software developer for (deep) machine learning and reinforcement learning.
