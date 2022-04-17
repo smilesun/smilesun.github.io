@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wer ist der Mensch, der das Leben liebt, der Tage ersehent, um Gutes zu sehen?"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
