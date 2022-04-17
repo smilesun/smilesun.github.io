@@ -15,8 +15,8 @@ My research interest is in the intersection of causal inference and discovery, r
 - Causal inference based domain generalization and adaptation
 - Optimal experimental design and exploration in reinforcement learning
 - Reinforcement learning on graph
-- Feedback optimization and adaptive control (Simultaneous system identification and control)
+- Feedback optimization and adaptive control with uncertain models
 - Port-Hamiltonian modeling and control of biochemical reaction networks
 - Non-linear observer design
  
-I am also an open source software developer for (deep) machine learning and reinforcement learning.
+I am also an open source software developer for (deep) machine learning and reinforcement learning, and a reviewer for ICML, ICLR, NeuroIPS.
