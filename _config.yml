@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xudong Sun | Wer ist der Mensch, der das Leben liebt, der Tage ersehent, um Gutes zu sehen?"
+title                    : "Xudong Sun |     Wer ist der Mensch, der das Leben liebt, der Tage ersehent, um Gutes zu sehen?"
 title_separator          : "-"
 name                     : &name "Xudong Sun"
 description              : &description "awareness is the path to change"
@@ -80,8 +80,10 @@ analytics:
 author:
   name             : "Xudong Sun"
   avatar           : "profile.png"
-  bio              : "Postdoctoral researcher in control theory, Dr. rer. nat. (PhD) in Statistics, MEng in Signal and Information Processing, 
-  BS in Physics"
+  bio              : "Postdoc in control theory (KTH Royal Institute of Technology), \ 
+  Dr. rer. nat. (PhD) in Statistics (LMU Munich), \
+  MEng in Signal and Information Processing (UCAS), \
+  BS in Physics (QDU)"
   location         : "Munich, Stockholm"
   employer         :
   googlescholar    : "https://scholar.google.de/citations?user=FnWKUqYAAAAJ&hl=en"
