@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me <font size='3'>Causality, Reinforcement Learning, Optimization, Control, Regression<font>"
+title: "About me <font size='2'>Causality, Reinforcement Learning, Optimization, Control, Statistical Modeling, Signal Processing<font>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My research interest is in the intersection of causal inference and discovery, reinforcement learning, optimization and control theory, regression. 
+My research interest is in the intersection of causal inference and discovery, reinforcement learning, optimization and control theory, statistical modeling and signal processing. 
 
 
 - Inference for control with probabilistic graphical model [e.g. paper link](https://ieeexplore.ieee.org/document/9003114)
@@ -20,7 +20,7 @@ My research interest is in the intersection of causal inference and discovery, r
 - Port-Hamiltonian modeling, learning and control (e.g. biochemical reaction networks)
 - Generalized Additive Model for Functional Data Analysis [e.g. paper link](https://arxiv.org/pdf/1911.07511.pdf)
  
-I am also an open source software developer for (deep) machine learning and reinforcement learning [e.g.](https://github.com/smilesun)[pub](https://www.sciencedirect.com/science/article/pii/S016794731930194X)[pub](https://arxiv.org/pdf/1911.07511.pdf)[pub](https://cran.r-project.org/web/packages/paradox/index.html), and a reviewer for ICML, ICLR, NeuroIPS.
+I am also an open source software developer for (deep) machine learning and reinforcement learning [e.g. my github profile](https://github.com/smilesun)[pub](https://www.sciencedirect.com/science/article/pii/S016794731930194X)[pub](https://arxiv.org/pdf/1911.07511.pdf)[pub](https://cran.r-project.org/web/packages/paradox/index.html), and a reviewer for top AI conferences like ICML, ICLR, NeuroIPS.
 I value the role of algebraic statistics and differential geometry in my research.
 
-During my free time, I like exploring the nature, enjoy various sports (e.g. entry level martial arts).
+During my free time, I like exploring the nature, enjoy various sports (e.g. swimming, entry level martial arts).
