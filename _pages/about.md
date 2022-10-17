@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-With expertise in statistics, software engineering, optimization and control theory, my research goal is to bridge the above different disciplines. To achieve this, I have dipped into the following:
+With expertise in statistics (causality), software engineering, optimization and control theory, my research goal is to bridge the above different disciplines. To achieve this, I have dipped into the following:
 
 - Inference for control with probabilistic graphical model [e.g. paper link](https://ieeexplore.ieee.org/document/9003114)
 - Causal and variational inference based domain generalization for deep learning [e.g. paper](https://arxiv.org/pdf/2101.09436.pdf)
