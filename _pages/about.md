@@ -11,7 +11,8 @@ redirect_from:
 With expertise in statistics (causality), software engineering, optimization and control theory, my research goal is to bridge the above different disciplines for precision medicine. To achieve this, I have dipped into the following:
 
 - Toplogical data analysis 
-- Model predicative control 
+- High dimensional approximate causal discovery
+- Model predicative control
 - Inference for control with probabilistic graphical model [e.g. paper link](https://ieeexplore.ieee.org/document/9003114)
 - Causal and variational inference based domain generalization for deep learning [e.g. paper](https://arxiv.org/pdf/2101.09436.pdf)
 - Exploration in reinforcement learning [e.g. paper link](http://proceedings.mlr.press/v97/zhao19d/zhao19d.pdf)
@@ -25,6 +26,6 @@ For more research activities, see [my google scholar](https://scholar.google.de/
 
 I am also an open source software developer (R, python, cpp, java) for machine learning and reinforcement learning [see my github](https://github.com/smilesun), and a continuous reviewer for AI conferences like ICML, ICLR, NeuroIPS.
 
-I value the role of algebraic statistics and differential geometry in my research and I have knowledge in formal method, network and model predicative control.
+I value the role of algebraic statistics and differential geometry in my research and I have knowledge in optimization theory, formal method, network and model predicative control.
 
 During my free time, I like exploring the nature with friends, enjoy various sports (e.g. table tennis, badminton, swimming, entry level martial arts).
