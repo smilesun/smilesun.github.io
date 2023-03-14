@@ -12,7 +12,7 @@ With expertise in statistics (causality), software engineering, optimization and
 
 - Toplogical data analysis 
 - High dimensional approximate causal discovery
-- Model predicative control
+- Model predicative control [tubeMPC](https://github.com/smilesun/tube_mpc)
 - Inference for control with probabilistic graphical model [e.g. paper link](https://ieeexplore.ieee.org/document/9003114)
 - Causal and variational inference based domain generalization for deep learning [e.g. paper](https://arxiv.org/pdf/2101.09436.pdf)
 - Exploration in reinforcement learning [e.g. paper link](http://proceedings.mlr.press/v97/zhao19d/zhao19d.pdf)
