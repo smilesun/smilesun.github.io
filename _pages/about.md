@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me <font size='2'>[causality, Bayes, signal process] & [reinforcement learning, optimization and control]<font>"
+title: "About me <font size='2'>[causality, bayes, reinforcement learning, optimization and control]<font>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-With expertise in statistics (causality), software engineering, optimization and control theory, my research goal is to bridge the above different disciplines for precision medicine. To achieve this, I have dipped into the following:
+With expertise in Bayes statistics, causality, software engineering, reinforcement learning, optimization and control theory, my research goal is to bridge the above different disciplines for precision medicine. 
+  
+To achieve this, I have dipped into the following research activities:
 
 - Toplogical data analysis 
 - High dimensional approximate causal discovery
