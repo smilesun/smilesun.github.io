@@ -12,6 +12,7 @@ With expertise in statistics (causality), software engineering, optimization and
 
 - Toplogical data analysis 
 - High dimensional approximate causal discovery
+- Data driven control
 - Model predicative control [tubeMPC](https://github.com/smilesun/tube_mpc)
 - Inference for control with probabilistic graphical model [e.g. paper link](https://ieeexplore.ieee.org/document/9003114)
 - Causal and variational inference based domain generalization for deep learning [e.g. paper](https://arxiv.org/pdf/2101.09436.pdf)
@@ -26,6 +27,17 @@ For more research activities, see [my google scholar](https://scholar.google.de/
 
 I am also an open source software developer (R, python, cpp, java) for machine learning and reinforcement learning [see my github](https://github.com/smilesun), and a continuous reviewer for AI conferences like ICML, ICLR, NeuroIPS.
 
-I value the role of algebraic statistics and differential geometry in my research and I have knowledge in optimization theory, formal method, network and model predicative control.
+For system, optimization and control theory, I am trained in 
+  - formal method
+  - nonlinear control
+  - nonlinear contraint optimization
+  - networked optimization and control
+  - model predictive control.
+  - power system optimization and control
+  - LMI
+  - infinite dimensional control
+  - robotics
+  
+I value the role of algebraic statistics and differential geometry in my research 
 
 During my free time, I like exploring the nature with friends, enjoy various sports (e.g. table tennis, badminton, swimming, entry level martial arts).
