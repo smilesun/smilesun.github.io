@@ -15,13 +15,13 @@ With expertise in statistics (causality), software engineering, optimization and
 - Data driven control
 - Model predicative control [tubeMPC](https://github.com/smilesun/tube_mpc)
 - Inference for control with probabilistic graphical model [e.g. paper link](https://ieeexplore.ieee.org/document/9003114)
-- Causal and variational inference based domain generalization for deep learning [e.g. paper](https://arxiv.org/pdf/2101.09436.pdf)
+- Causal and variational inference based domain generalization for deep learning [hduva](https://arxiv.org/pdf/2101.09436.pdf)
 - Exploration in reinforcement learning [e.g. paper link](http://proceedings.mlr.press/v97/zhao19d/zhao19d.pdf)
-- Reinforcement learning on heterogeneous graph, multi-level optimization [e.g. paper link](https://link.springer.com/chapter/10.1007/978-3-030-43823-4_7)
+- Reinforcement learning on heterogeneous graph, multi-level optimization [reinbo](https://link.springer.com/chapter/10.1007/978-3-030-43823-4_7)
 - Feedback optimization and adaptive control with uncertain plant models (on going)
-- Learning based non-linear observer design for dynamic systems [e.g. paper link](https://arxiv.org/pdf/2210.01476.pdf)
+- Learning based non-linear observer design for dynamic systems [kkl observer](https://arxiv.org/pdf/2210.01476.pdf) [opinion dynamics](https://people.kth.se/~kallej/papers/network_ifac23xing.pdf)
 - Port-Hamiltonian modeling, learning and control (e.g. bio-chemical reaction networks)
-- Generalized Additive Model for Functional Data Analysis [e.g. paper link](https://arxiv.org/pdf/1911.07511.pdf)
+- Generalized Additive Model for Functional Data Analysis [mlrFDA](https://arxiv.org/pdf/1911.07511.pdf)
 
 For more research activities, see [my google scholar](https://scholar.google.de/citations?user=FnWKUqYAAAAJ&hl=en).
 
