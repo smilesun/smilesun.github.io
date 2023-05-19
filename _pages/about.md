@@ -18,10 +18,10 @@ To achieve this, I have dipped into the following research activities:
 - Model predicative control [tubeMPC](https://github.com/smilesun/tube_mpc)
 - Inference for control with probabilistic graphical model [e.g. paper link](https://ieeexplore.ieee.org/document/9003114)
 - Causal and variational inference based domain generalization for deep learning [hduva](https://arxiv.org/pdf/2101.09436.pdf)
-- Exploration in reinforcement learning [e.g. paper link](http://proceedings.mlr.press/v97/zhao19d/zhao19d.pdf)
+- Exploration in reinforcement learning [maxEntropy](http://proceedings.mlr.press/v97/zhao19d/zhao19d.pdf), [reinbo](https://link.springer.com/chapter/10.1007/978-3-030-43823-4_7)
 - Reinforcement learning on heterogeneous graph, multi-level optimization [reinbo](https://link.springer.com/chapter/10.1007/978-3-030-43823-4_7)
 - Feedback optimization and adaptive control with uncertain plant models (on going)
-- Learning based non-linear observer design for dynamic systems [kkl observer](https://arxiv.org/pdf/2210.01476.pdf) [opinion dynamics](https://people.kth.se/~kallej/papers/network_ifac23xing.pdf)
+- Learning based non-linear observer design for dynamic systems [kkl observer](https://arxiv.org/pdf/2210.01476.pdf), [opinion dynamics](https://people.kth.se/~kallej/papers/network_ifac23xing.pdf)
 - Port-Hamiltonian modeling, learning and control (e.g. bio-chemical reaction networks)
 - Generalized Additive Model for Functional Data Analysis [mlrFDA](https://arxiv.org/pdf/1911.07511.pdf)
 
@@ -30,13 +30,11 @@ For more research activities, see [my google scholar](https://scholar.google.de/
 I am also an open source software developer (R, python, cpp, java) for machine learning and reinforcement learning [see my github](https://github.com/smilesun), and a continuous reviewer for AI conferences like ICML, ICLR, NeuroIPS.
 
 For system, optimization and control theory, I am trained in 
-  - formal method
-  - nonlinear control
-  - nonlinear contraint optimization
+  - formal method, nonlinear control
+  - nonlinear contraint optimization, LMI
   - networked optimization and control
   - model predictive control.
   - power system optimization and control
-  - LMI
   - infinite dimensional control
   - robotics
   
