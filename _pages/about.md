@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-With expertise in Bayes statistics, causality, software engineering, reinforcement learning, optimization and control theory, my research goal is to bridge the above different disciplines for precision medicine. 
+With expertise in Bayes statistics, causality, software engineering, reinforcement learning, optimization and control theory, my research goal is to bridge the above different disciplines for data driven control and decision for precision medicine. 
   
 To achieve this, I have dipped into the following research activities:
 
@@ -27,16 +27,18 @@ To achieve this, I have dipped into the following research activities:
 
 For more research activities, see [my google scholar](https://scholar.google.de/citations?user=FnWKUqYAAAAJ&hl=en).
 
-I am also an open source software developer (R, python, cpp, java) for machine learning and reinforcement learning [see my github](https://github.com/smilesun), and a continuous reviewer for AI conferences like ICML, ICLR, NeuroIPS.
+I am also an open source software developer (R, python, cpp, java) for machine learning and reinforcement learning [see my github](https://github.com/smilesun).
+ 
+Since 2021, I have been a continuous reviewer for AI conferences like ICML, ICLR, NeuroIPS.
 
 For system, optimization and control theory, I am trained in 
   - formal method, nonlinear control
   - nonlinear contraint optimization, LMI
-  - networked optimization and control
-  - model predictive control.
+  - networked optimization and control, opinion dynamics
+  - model predictive control
   - power system optimization and control
-  - infinite dimensional control
-  - robotics
+  - infinite dimensional control (PDE)
+  - (soft) robotics
   
 I value the role of algebraic statistics and differential geometry in my research 
 
