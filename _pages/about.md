@@ -8,23 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-With expertise in Bayesian statistics, causal discovery, software engineering, reinforcement learning, system, optimization and control theory, my research goal is to bridge the above different disciplines to serve my interests in experimental design, data driven control and sequential decision making for precision medicine. 
+With transdisciplinary expertise in statistics, software engineering, optimization and control theory, my research perspective lie in experimental design, data driven control and sequential decision making for precision medicine and robotics applications. 
   
 To achieve this, I have dipped into the following research activities:
 
+- Port-Hamiltonian modeling, learning and control (e.g. bio-chemical reaction networks)
+- High dimensional approximate causal discover, causal discovery with hidden confounders
 - Multi-parameter persistence homology for Toplogical Data Analysis [persistence homology learning](https://github.com/smilesun/multi_parameter_persistence_homology_path_learning)
-- Open source modular software design for domain generalization [DomainLab](https://github.com/marrlab/DomainLab)
-- High dimensional approximate causal discovery
-- Causal discovery with hidden confounders
-- Model predicative control [tubeMPC](https://github.com/smilesun/tube_mpc)
+- Multi-objective feedback optimization and adaptive control with uncertain plant models (e.g. deep neural networks) [M-HOF-Opt](https://arxiv.org/pdf/2403.13728.pdf)
+- Open source modular software design for domain generalization and multi-modal deep learning [DomainLab](https://github.com/marrlab/DomainLab)
+- Robust Model Predicative Control [tubeMPC](https://github.com/smilesun/tube_mpc)
+- Learning based non-linear observer design for dynamic systems [kkl observer](https://arxiv.org/pdf/2210.01476.pdf)
+- Opinion dynamics [opinion dynamics](https://people.kth.se/~kallej/papers/network_ifac23xing.pdf)
 - Inference for control with probabilistic graphical model [e.g. paper link](https://ieeexplore.ieee.org/document/9003114)
 - Causal and variational inference based domain generalization for deep learning [hduva](https://arxiv.org/pdf/2101.09436.pdf)
 - Exploration in reinforcement learning [maxEntropy](http://proceedings.mlr.press/v97/zhao19d/zhao19d.pdf), [reinbo](https://link.springer.com/chapter/10.1007/978-3-030-43823-4_7)
 - Reinforcement learning on heterogeneous graph, multi-level optimization [reinbo](https://link.springer.com/chapter/10.1007/978-3-030-43823-4_7)
-- Feedback optimization and adaptive control with uncertain plant models (e.g. deep neural networks)
-- Learning based non-linear observer design for dynamic systems [kkl observer](https://arxiv.org/pdf/2210.01476.pdf)
-- Opinion dynamics [opinion dynamics](https://people.kth.se/~kallej/papers/network_ifac23xing.pdf)
-- Port-Hamiltonian modeling, learning and control (e.g. bio-chemical reaction networks)
 - Generalized Additive Model for Functional Data Analysis [mlrFDA](https://arxiv.org/pdf/1911.07511.pdf)
 
 For more research activities, see [my google scholar](https://scholar.google.de/citations?user=FnWKUqYAAAAJ&hl=en).
