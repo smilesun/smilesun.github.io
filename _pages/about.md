@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-With transdisciplinary expertise in statistics, software engineering, optimization and control theory, my research perspective lies in experimental design, data driven control and sequential decision making for precision medicine and robotics applications. 
+With transdisciplinary expertise in statistics, software engineering, (multi-objective) optimization and control theory, my research perspective lies in experimental design, data driven control and sequential decision making for precision medicine and robotics applications. 
   
 To achieve this, I have dipped into the following research activities:
 
@@ -19,11 +19,11 @@ To achieve this, I have dipped into the following research activities:
 - Open source modular software design for domain generalization and multi-modal deep learning [DomainLab](https://github.com/marrlab/DomainLab)
 - Robust Model Predicative Control [tubeMPC](https://github.com/smilesun/tube_mpc)
 - Learning based non-linear observer design for dynamic systems [kkl observer](https://arxiv.org/pdf/2210.01476.pdf)
-- Opinion dynamics [opinion dynamics](https://people.kth.se/~kallej/papers/network_ifac23xing.pdf)
-- Inference for control with probabilistic graphical model [e.g. paper link](https://ieeexplore.ieee.org/document/9003114)
+- Learning Opinion dynamics [IFAC paper](https://people.kth.se/~kallej/papers/network_ifac23xing.pdf)
+- Understanding inference for control with probabilistic graphical model [Tutorial Paper](https://ieeexplore.ieee.org/document/9003114)
 - Causal and variational inference based domain generalization for deep learning [HDUVA](https://arxiv.org/pdf/2101.09436.pdf)
-- Exploration in reinforcement learning [maxEntropy](http://proceedings.mlr.press/v97/zhao19d/zhao19d.pdf), [reinbo](https://link.springer.com/chapter/10.1007/978-3-030-43823-4_7)
-- Reinforcement learning on heterogeneous graph, multi-level optimization with hypothesis posterior [ReinBo](https://link.springer.com/chapter/10.1007/978-3-030-43823-4_7)
+- Exploration in reinforcement learning with sparse reward [maxEntropy](http://proceedings.mlr.press/v97/zhao19d/zhao19d.pdf), [ReinBo](https://link.springer.com/chapter/10.1007/978-3-030-43823-4_7)
+- Multi-level optimization with hypothesis posterior using RL and Bayesian Optimization [ReinBo](https://link.springer.com/chapter/10.1007/978-3-030-43823-4_7)
 - Generalized Additive Model for Functional Data Analysis [mlrFDA](https://arxiv.org/pdf/1911.07511.pdf)
 
 For more research activities, see [my google scholar](https://scholar.google.de/citations?user=FnWKUqYAAAAJ&hl=en).
