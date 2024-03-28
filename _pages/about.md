@@ -24,6 +24,8 @@ To achieve this, I have dipped into the following research activities:
 - Causal and variational inference based domain generalization for deep learning [HDUVA](https://arxiv.org/pdf/2101.09436.pdf)
 - Exploration in reinforcement learning with sparse reward [maxEntropy](http://proceedings.mlr.press/v97/zhao19d/zhao19d.pdf), [ReinBo](https://link.springer.com/chapter/10.1007/978-3-030-43823-4_7)
 - Multi-level optimization with hypothesis posterior using RL and Bayesian Optimization [ReinBo](https://link.springer.com/chapter/10.1007/978-3-030-43823-4_7)
+- Multi-objective Bayesian optimization for distributed model selection [RFMS](https://link.springer.com/chapter/10.1007/978-3-030-29516-5_48)
+- Bayesian neural network does not generalize [paper](https://arxiv.org/pdf/1906.02972.pdf)
 - Generalized Additive Model for Functional Data Analysis [mlrFDA](https://arxiv.org/pdf/1911.07511.pdf)
 
 For more research activities, see [my google scholar](https://scholar.google.de/citations?user=FnWKUqYAAAAJ&hl=en).
