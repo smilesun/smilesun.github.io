@@ -13,7 +13,7 @@ With transdisciplinary expertise in statistics, software engineering, (multi-obj
 To achieve this, I have dipped into the following research activities:
 
 - Port-Hamiltonian modeling, learning and control (e.g. bio-chemical reaction networks)
-- High dimensional approximate causal discover, causal discovery with hidden confounders
+- Approximate causal discover with hidden confounders
 - Multi-parameter persistence homology for Toplogical Data Analysis [persistence homology learning](https://github.com/smilesun/multi_parameter_persistence_homology_path_learning)
 - Multi-objective feedback optimization and adaptive control with uncertain plant models (e.g. deep neural networks) [M-HOF-Opt](https://arxiv.org/pdf/2403.13728.pdf)
 - Open source modular software design for domain generalization and multi-modal deep learning [DomainLab](https://github.com/marrlab/DomainLab)
