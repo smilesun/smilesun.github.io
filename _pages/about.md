@@ -18,7 +18,7 @@ To achieve this, I have dipped into the following research activities:
   - Optimal path learning for multi-parameter persistence homology (Toplogical Data Analysis) [persistence homology learning](https://github.com/smilesun/multi_parameter_persistence_homology_path_learning)
   - Understanding inference for control with Probabilistic Graphical Model [Tutorial Paper](https://ieeexplore.ieee.org/document/9003114)
   - Exploration in reinforcement learning with sparse reward [maxEntropy](http://proceedings.mlr.press/v97/zhao19d/zhao19d.pdf), [ReinBo](https://link.springer.com/chapter/10.1007/978-3-030-43823-4_7)
-  - Robust Model Predicative Control [tubeMPC](https://github.com/smilesun/tube_mpc)
+  - High dimensional Robust Model Predicative Control [tubeMPC](https://github.com/smilesun/tube_mpc)
     
 - Out of distribution generalization
   - Open source modular software design for domain generalization and multi-modal deep learning [DomainLab](https://github.com/marrlab/DomainLab)
