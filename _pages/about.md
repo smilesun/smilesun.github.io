@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me <font size='2'>[causality, bayes, reinforcement learning, optimization and control]<font>"
+title: "About me <font size='2'>[causality, bayes, reinforcement learning, software engineering, optimization and control]<font>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,21 +12,25 @@ With transdisciplinary expertise in statistics, software engineering, (multi-obj
   
 To achieve this, I have dipped into the following research activities:
 
-- Port-Hamiltonian modeling, learning and control (e.g. bio-chemical reaction networks)
-- Approximate causal discover with hidden confounders
-- Multi-parameter persistence homology for Toplogical Data Analysis [persistence homology learning](https://github.com/smilesun/multi_parameter_persistence_homology_path_learning)
-- Multi-objective feedback optimization and adaptive control with uncertain plant models (e.g. deep neural networks) [M-HOF-Opt](https://arxiv.org/pdf/2403.13728.pdf)
-- Open source modular software design for domain generalization and multi-modal deep learning [DomainLab](https://github.com/marrlab/DomainLab)
-- Robust Model Predicative Control [tubeMPC](https://github.com/smilesun/tube_mpc)
-- Learning based non-linear observer design for dynamic systems [kkl observer](https://arxiv.org/pdf/2210.01476.pdf)
-- Learning Opinion dynamics [IFAC paper](https://people.kth.se/~kallej/papers/network_ifac23xing.pdf)
-- Understanding inference for control with probabilistic graphical model [Tutorial Paper](https://ieeexplore.ieee.org/document/9003114)
-- Causal and variational inference based domain generalization for deep learning [HDUVA](https://arxiv.org/pdf/2101.09436.pdf)
-- Exploration in reinforcement learning with sparse reward [maxEntropy](http://proceedings.mlr.press/v97/zhao19d/zhao19d.pdf), [ReinBo](https://link.springer.com/chapter/10.1007/978-3-030-43823-4_7)
-- Multi-level optimization with hypothesis posterior using RL and Bayesian Optimization [ReinBo](https://link.springer.com/chapter/10.1007/978-3-030-43823-4_7)
-- Multi-objective Bayesian optimization for distributed model selection [RFMS](https://link.springer.com/chapter/10.1007/978-3-030-29516-5_48)
-- Bayesian neural network does not generalize [paper](https://arxiv.org/pdf/1906.02972.pdf)
-- Generalized Additive Model for Functional Data Analysis [mlrFDA](https://arxiv.org/pdf/1911.07511.pdf)
+- Data driven decision and control
+  - Multi-objective feedback optimization and adaptive control with uncertain plant models (e.g. deep neural networks) [M-HOF-Opt](https://arxiv.org/pdf/2403.13728.pdf)
+  - Multi-level optimization with hypothesis posterior for multi-modal space optimization using RL and Bayesian Optimization [ReinBo](https://link.springer.com/chapter/10.1007/978-3-030-43823-4_7)
+  - Optimal path learning for multi-parameter persistence homology (Toplogical Data Analysis) [persistence homology learning](https://github.com/smilesun/multi_parameter_persistence_homology_path_learning)
+  - Understanding inference for control with Probabilistic Graphical Model [Tutorial Paper](https://ieeexplore.ieee.org/document/9003114)
+  - Exploration in reinforcement learning with sparse reward [maxEntropy](http://proceedings.mlr.press/v97/zhao19d/zhao19d.pdf), [ReinBo](https://link.springer.com/chapter/10.1007/978-3-030-43823-4_7)
+  - Robust Model Predicative Control [tubeMPC](https://github.com/smilesun/tube_mpc)
+    
+- Out of distribution generalization
+  - Open source modular software design for domain generalization and multi-modal deep learning [DomainLab](https://github.com/marrlab/DomainLab)
+  - Causal and variational inference based domain generalization for deep learning [HDUVA](https://arxiv.org/pdf/2101.09436.pdf)
+  - Multi-objective Bayesian optimization for distributed model selection under domain shift [RFMS](https://link.springer.com/chapter/10.1007/978-3-030-29516-5_48)
+  - Bayesian neural network does not generalize [paper](https://arxiv.org/pdf/1906.02972.pdf)
+  - Approximate causal discover with hidden confounders
+- Learning sequential data and dynamic systems
+  - Learning based non-linear observer design for dynamic systems [kkl observer](https://arxiv.org/pdf/2210.01476.pdf)
+  - Learning Opinion dynamics [IFAC paper](https://people.kth.se/~kallej/papers/network_ifac23xing.pdf)
+  - Port-Hamiltonian modeling, learning and control (e.g. bio-chemical reaction networks)
+  - Generalized Additive Model for Functional Data Analysis [mlrFDA](https://arxiv.org/pdf/1911.07511.pdf)
 
 For more research activities, see [my google scholar](https://scholar.google.de/citations?user=FnWKUqYAAAAJ&hl=en).
 
