@@ -14,7 +14,7 @@ To achieve this, I have dipped into the following research activities:
 
 - Data driven decision and control
   - Multi-objective feedback optimization and adaptive control with uncertain plant models (e.g. deep neural networks) [M-HOF-Opt](https://arxiv.org/pdf/2403.13728.pdf)
-  - Multi-level optimization with hypothesis posterior for multi-modal space optimization using RL and Bayesian Optimization [ReinBo](https://link.springer.com/chapter/10.1007/978-3-030-43823-4_7)
+  - Multi-level optimization with hypothesis posterior for continual-discrete hybrid space optimization using RL and Bayesian Optimization [ReinBo](https://link.springer.com/chapter/10.1007/978-3-030-43823-4_7)
   - Optimal path learning for multi-parameter persistence homology (Toplogical Data Analysis) [persistence homology learning](https://github.com/smilesun/multi_parameter_persistence_homology_path_learning)
   - Understanding inference for control with Probabilistic Graphical Model [Tutorial Paper](https://ieeexplore.ieee.org/document/9003114)
   - Exploration in reinforcement learning with sparse reward [maxEntropy](http://proceedings.mlr.press/v97/zhao19d/zhao19d.pdf), [ReinBo](https://link.springer.com/chapter/10.1007/978-3-030-43823-4_7)
@@ -25,7 +25,8 @@ To achieve this, I have dipped into the following research activities:
   - Causal and variational inference based domain generalization for deep learning [HDUVA](https://arxiv.org/pdf/2101.09436.pdf)
   - Multi-objective Bayesian optimization for distributed model selection under domain shift [RFMS](https://link.springer.com/chapter/10.1007/978-3-030-29516-5_48)
   - Bayesian neural network does not generalize [paper](https://arxiv.org/pdf/1906.02972.pdf)
-  - Approximate causal discover with hidden confounders
+  - Ancestral data synthesis for approximate causal discover and abstraction with hidden confounders [causalSpyne](https://github.com/marrlab/causalspyne)
+
 - Learning sequential data and dynamic systems
   - Learning based non-linear observer design for dynamic systems [kkl observer](https://arxiv.org/pdf/2210.01476.pdf)
   - Learning Opinion dynamics [IFAC paper](https://people.kth.se/~kallej/papers/network_ifac23xing.pdf)
