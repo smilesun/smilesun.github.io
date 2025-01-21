@@ -20,14 +20,14 @@ To achieve this, I have dipped into the following research activities:
   - Exploration in reinforcement learning with sparse reward [maxEntropy](http://proceedings.mlr.press/v97/zhao19d/zhao19d.pdf), [ReinBo](https://link.springer.com/chapter/10.1007/978-3-030-43823-4_7)
   - High dimensional Robust Model Predicative Control [tubeMPC](https://github.com/smilesun/tube_mpc)
     
-- Out of distribution generalization
+- Causality, Out of distribution generalization
   - Open source modular software design for domain generalization and multi-modal deep learning [DomainLab](https://github.com/marrlab/DomainLab)
   - Causal and variational inference based domain generalization for deep learning [HDUVA](https://arxiv.org/pdf/2101.09436.pdf)
   - Multi-objective Bayesian optimization for distributed model selection under domain shift [RFMS](https://link.springer.com/chapter/10.1007/978-3-030-29516-5_48)
   - Bayesian neural network does not generalize [paper](https://arxiv.org/pdf/1906.02972.pdf)
   - Ancestral data synthesis for approximate causal discover and abstraction with hidden confounders [causalSpyne](https://github.com/marrlab/causalspyne)
 
-- Learning sequential data and dynamic systems
+- Learning sequential data and identification of dynamic systems
   - Learning based non-linear observer design for dynamic systems [kkl observer](https://arxiv.org/pdf/2210.01476.pdf)
   - Learning Opinion dynamics [IFAC paper](https://people.kth.se/~kallej/papers/network_ifac23xing.pdf)
   - Port-Hamiltonian modeling, learning and control (e.g. bio-chemical reaction networks)
