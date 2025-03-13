@@ -13,7 +13,7 @@ With transdisciplinary expertise in statistics, software engineering, (multi-obj
 To achieve this, I have dipped into the following research activities:
 
 - Data driven decision and control
-  - Multi-objective feedback optimization and adaptive control with uncertain plant models (e.g. deep neural networks) [M-HOF-Opt](https://arxiv.org/pdf/2403.13728.pdf)
+  - Multi-objective output feedback optimization and adaptive control with uncertain plant models (e.g. deep neural networks) [M-HOF-Opt](https://arxiv.org/pdf/2403.13728.pdf)
   - Multi-level optimization with hypothesis posterior for continual-discrete hybrid space optimization using RL and Bayesian Optimization [ReinBo](https://link.springer.com/chapter/10.1007/978-3-030-43823-4_7)
   - Optimal path learning for multi-parameter persistence homology (Toplogical Data Analysis) [persistence homology learning](https://github.com/smilesun/multi_parameter_persistence_homology_path_learning)
   - Understanding inference for control with Probabilistic Graphical Model [Tutorial Paper](https://ieeexplore.ieee.org/document/9003114)
@@ -21,7 +21,9 @@ To achieve this, I have dipped into the following research activities:
   - High dimensional Robust Model Predicative Control [tubeMPC](https://github.com/smilesun/tube_mpc)
     
 - Causality, Out of distribution generalization
-  - Open source modular software design for domain generalization and multi-modal deep learning [DomainLab](https://github.com/marrlab/DomainLab)
+  - Solution space analysis of causal discovery with unobserved confounding [paper](https://arxiv.org/pdf/2503.09194)
+   
+  - Open source modular software design for constraint optimization in deep learning [DomainLab](https://github.com/marrlab/DomainLab)
   - Causal and variational inference based domain generalization for deep learning [HDUVA](https://arxiv.org/pdf/2101.09436.pdf)
   - Multi-objective Bayesian optimization for distributed model selection under domain shift [RFMS](https://link.springer.com/chapter/10.1007/978-3-030-29516-5_48)
   - Bayesian neural network does not generalize [paper](https://arxiv.org/pdf/1906.02972.pdf)
